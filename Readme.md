@@ -28,7 +28,4 @@ This project is a modern streaming website homepage UI, built with HTML, CSS (us
     ```
 3.  **Open `index.html`:** Simply open the `index.html` file in your web browser to view the project.
 
-## Video Tutorial
-
-![Movie Website Tutorial](img/thumbnail.jpg)
 
